@@ -1,0 +1,185 @@
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<style>
+    P{border : 5px solid black}
+</style>
+<p>
+
+<body>
+    <center>
+        <h1>
+            <u>My Resume</u>
+        </h1>
+    </center>
+    <h3>G.S.V.Bulli Raju</h3>
+    <img src = "d.jpg"  width = 100 height = 100 space = 300 align =right >
+    <h5>Gollaprolu</h5>
+    <h5>bulliraju.garapati321@gmail.com</h5>
+    <h5>Contact Num: 9505048005</h5><hr>
+    <h2>
+        
+        <u>CAREER OBJECTIVE</u>
+    </h2>
+
+    <h2>To work in a professional and solution orient environment where I can get 
+        enough opportunity to continuously innovate and improve business 
+        processes as well as myself,which in the long run will allow me to learn and
+        establish processes and standards.
+        </h2>
+    <h2>
+        
+        <u>ACADEMIC QUALIFICATION</u>
+    </h2>
+
+    <table border = 5 width = 1000>
+        <tr>
+            <th>QUALIFICATION</th>
+            <th>Board/University</th>
+            <th>School/College</th>
+            <th>Year Of Passing</th>
+            <th>Marks</th>
+        </tr>
+        <tr>
+            <th>B.Tech</th>
+            <th>JNTUK</th>
+            <th>Adarsh College Of Engineering</th>
+            <th>2018</th>
+            <th>68%</th>
+        </tr>
+
+        <tr>
+            <th>Intermediate</th>
+            <th>State Board</th>
+            <th>Sri Chaitanya Junior College</th>
+            <th>2014</th>
+            <th>78%</th>
+        </tr>
+
+        <tr>
+            <th>SSC</th>
+            <th>State Board</th>
+            <th>Madhuri Vidhyalaya</th>
+            <th>2012</th>
+            <th>93%</th>
+        </tr>
+        </table>
+        
+        <h2>
+            
+            <u>EXPERIENCE</u>
+        </h2>
+    
+        <h2>⦁I am working as a Senior associate in Wipro Technologies PVT ltd from 2019 May to June 2021.
+            </h2>
+         
+            <h2>
+                
+                <u>ROLES AND RESPONSIBILITIES</u>
+                </hr>
+                <ul>
+                    <b>
+                    <h4>
+                    <li>Having 2 years of experience in Design, Development, Analysis and
+                        Implementation of Data warehousing Technology by using, ETL tool Informatica
+                        Power Centre.  Good knowledge in understanding the Data Base, SDLC  Good
+                        knowledge in Oracle SQL.
+                    <li>Excellent written, communication, inter personal, liaison and problem-solving skills
+                        with the experience of having worked in multi-cultural environments.
+                        
+                    <li>Experience in resolving on-going maintenance issues and bug fixes; monitoring
+                        Informatica sessions as well as performance tuning of mappings and sessions.
+                        
+                    <li>Experience in all phases of Data warehouse development fromrequirements
+                        gathering for the data warehouse to develop the code, Unit Testing and
+                        Documenting.
+                    <li>Extensively involved in development of Mappings using various
+                        Transformations like Source qualifier, Expressions, Joiner, Aggregators,
+                        Lookups, Filter, Rank, Sequence generator and Update Strategy.
+                        
+                    <li>Developed Test cases, mappings & sessions.
+                    <li>Coordination with various dependent and support teams.
+                        
+                    
+                    </li>
+                    <h4>
+                    <b>
+                    </ul>
+
+
+
+
+
+
+        
+
+        <h3>
+            
+        <u>SKILLS</u>
+        </hr>
+        <ul>
+            <b>
+            <h5>
+            <li>ETL Tools & utilities : INFORMATICA 9.6 /10.2
+            <li>Data Bases : Sql ,Oracle 10 G
+                
+            <li>Profound knowledge of MS Office
+            <li>Problem-solving approach to solving complicated queries
+            </li>
+            <h5>
+            <b>
+            </ul>
+
+
+            <u>STRENGTHS</u>
+        </hr>
+        <ul>
+            <b>
+            <h5>
+            <li>Self-motivated
+            <li>Active Listening
+            <li>Communicating
+            <li> Strong Work ethic</li>
+            <h5>
+            <b>
+            </ul>
+            
+            
+        <h4>
+            
+            <u>PERSONAL DETAILS</u>
+        </h4>
+        <ul>
+            <b>
+            <h5>
+            <li>Name    : Bulli Raju
+            <li>Married : No
+            <li>Hobbies : </li>
+                          <ul>
+                          <li>Reading
+                          <li>Playing Cricket
+                          <li>Swimming</li>
+                          </ul>
+        </UL>
+        <h4>
+        
+            <u>DECLARATION</u>
+        </h4>
+    
+        <h5>I sincerely feel that working and to be served in your esteemed 
+            organization to fulfill my cherished goals. I hereby declare that the above 
+            information is true to the best of my knowledge.
+            </h5>
+
+
+
+
+
+
+    </table>
+</body>
+</p>
+
+
+</html>
