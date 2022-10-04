@@ -1,0 +1,25 @@
+<html>
+    <style>
+       #raj{background-color:blue;}
+       #raju{background-color:yellow;}
+       #rajesh{background-color:green;}
+    </style>
+    <head>task5</head>
+    <body>
+        <h1>The Brown Bear</h1>
+          <div id = "raj">
+        <h2>About Brown Bears</h2>
+        <h3>Species</h3>
+        <h3>Features</h3>
+          </div>
+          <div id = "raju">
+        <h2>Habitat</h2>
+        <h3>Countries with Large Brown Bear Populations</h3>
+          </div>
+        <h3>Countries with Small Brown Bear Populations</h3>
+          <div id = "rajesh">
+        <h2>Media</h2>
+          </div>
+
+    </body>
+</html>
