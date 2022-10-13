@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <form>
+            <h2>Create a Form</h2>
+            <p>Enter the Personal Details to Register</p>
+            
+            <h2>Personal Information</h2>  
+            <label for = "fname" >First Name :</label>
+            <input type = text id ="fname">
+
+            <label>Last Name  :</label>
+            <input type = text id = "Last Name"><br><br>
+
+            <label>Email :</label>
+            <input type = "Email" >
+
+            <label>Password :</label>
+            <input type = "Password" id = "User-Password" name = "User Password" ><br><br>
+
+            <label>Experience :</label>
+            <input type = "Number" id = "Years" name = "Years"><br><br>
+
+            <label for = "Qualification">Qualification :</label>
+            <input type = "text" id = "Qualification"><br><br>
+
+            <label for = "Gender">Gender :</label>
+            male<input type = "radio" name = "Gender">
+            female<input type = "radio" name = "Gender"><br><br>
+
+            Address:<br><textarea rows = "5" cols="20"></textarea><br><br>
+
+            <button type = "button">submit</button>
+
+            
+   
+
+        </form>
+    </head>    
+</html>
