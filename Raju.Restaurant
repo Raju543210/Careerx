@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+    
+    <head>
+        <center>
+         <h2>
+            <u>Raju Biryani Restaurant</u>
+         </h2>
+        </center>
+    </head><br>
+
+    <body bgcolor = "black" text="white"></body>
+        <h1><marquee>Raju Biryani Restaurant </marquee></h1>
+        <img src="https://assets.simpleviewcms.com/simpleview/image/fetch/c_fill,f_jpg,h_605,q_65,w_1200/https://images.citybreakcdn.com/image.aspx%3FImageId%3D6888356" height="400" width="1800">
+        <hr>
+
+        <style>
+          h1{
+            text-align: center;
+            background-color: blue;
+          }
+        </style>
+        
+        <section class = "Experience">
+            <label for = "Experience">1.How many years of experience do you need to prepare Biryani?</label>
+            <input type = "number" name = "Restaurant" id = "Restaurant" min = "2" max ="15" required >
+        </section>
+        <hr>
+
+       
+
+         <section Class = "Menu">
+
+            <span>2.Which type of Biryani do you want?</span><br>
+
+            <input type = "radio" name = "menu" id = "Menu" value = "Dum Biryani">
+            <label for = "Menu">Dum Biryani</label><br>
+
+            <input type = "radio" name = "menu"  id ="menu" value = "fry biryani">
+            <label for = "Menu">Fry Biryani</label><br>
+
+            <input type = "radio" name = "menu"  id ="menu" value = "Mutton biryani">
+            <label for = "Menu">Mutton Biryani</label><br>
+
+         </section>
+        <hr>
+
+         <section class = "Count">
+
+            <label>3.How many biryani parcels are required?<label>
+            <input type = "number" name = "count" id = "Count" min = "10" max ="25" required>
+            <span>Count</span>
+
+         </section>
+        <hr>
+
+         <section class = "Spicy">
+            <span>4.What type of biryani spicy or normal ?</span><br>
+            <input type = "radio" name = "Spicy" id = "Spicy" value = "Normal">
+            <label for = "Spicy">Normal</label>
+            <input type = "radio" id = "spicy" name = "spicy" value = "Average">
+            <label for = "spicy">Average</label>
+            <input type = "radio" id = "spicy" name = "spicy" value = "Spicy">
+            <label for = "spicy">Spicy</label>
+        
+         </section>
+        <hr>
+
+
+             <section class = "Taste">
+
+                <span>5.Whether Taste is Good or Bad?</span><br>
+                
+                <input type = "radio" name = "Taste" id = "Taste" value = "Good">
+                <label for = "Taste">Good</label>
+    
+                <input type = "radio" name = "Taste" id = "Taste" value = "Good">
+                <label for = "Taste">Bad</label><br>
+    
+             </section>
+        <hr>
+
+             <Section Class = "Feedback">
+                  <span>6.Give me your valuable feedback?</span>
+                  <input type = "range" name = "Feedback" id = "Feedback" value = "5" min = "1" max = "10">
+                  <span>Feedback</span>
+
+             </Section>
+        <hr>
+
+        <button type = "button" >submit</button>
+
+
+
+
+            
+        
+             
+    </body>
+</html>
