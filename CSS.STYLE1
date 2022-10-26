@@ -1,0 +1,27 @@
+body {
+    background-color: greenyellow;
+    color:red;
+    font-size: medium;
+    font-style: inherit;
+   
+}
+
+* {
+    border: 1px solid red;
+  }
+
+
+p{
+    font-family: 'Courier New';
+    font-size: x-large;
+    color: green;
+}
+
+  
+h1{
+    color:maroon;
+}
+
+.title{
+    color:teal;
+}
