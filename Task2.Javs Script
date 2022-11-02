@@ -1,0 +1,65 @@
+var favoriteFood = "pizza";
+var numOfSlices = 8;
+console.log(favoriteFood);
+
+/*task2.2*/
+let changeMe = "true";
+ changeMe = "false";
+console.log(changeMe);
+
+/*task2.3*/
+const entree = "Enchiladas";
+console.log(entree);
+
+/*task2.4*/
+
+let levelUp = 5;
+levelUp += 5;
+console.log('The value of levelUp:', levelUp);
+let powerLevel = 100;
+powerLevel-= 100;
+console.log('The value of powerLevel:', powerLevel); 
+let multiplyMe = 11;
+multiplyMe *= 11;
+console.log('The value of multiplyMe:', multiplyMe);
+let quarterMe = 4;
+quarterMe /= 4;
+console.log('The value of quarterMe:', quarterMe);
+
+/*task2.5*/
+
+let gainedDollar = 3;
+let lostDollar = 50;
+gainedDollar++;
+lostDollar--;
+console.log(gainedDollar);
+console.log(lostDollar);
+
+/*task2.6*/
+
+var favoriteAnimal = "tiger";
+console.log('My favorite animal '+favoriteAnimal.toUpperCase());
+
+/*task2.7*/
+
+var myName = "Raju.";
+var myCity = "Hyderabad.";
+console.log('My name is ' +myName,'My favorite city is '+myCity);
+
+
+/*task2.8*/
+
+let newVariable = 'Playing around with typeof.';
+console.log(typeof newVariable);
+ 
+let newVariable1 = 1;
+console.log(typeof newVariable1);
+
+
+
+
+
+
+
+
+
